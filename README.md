@@ -1,7 +1,6 @@
 #### Hi, I’m Naiara Seabra Boa 👋
 - 👀 I’m interested in Nodejs C# .net
 - 🌱 I’m currently learning C, C++
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me [LinkedIn: @naiaraboa](https://linkedin.com/in/naiaraboa)
 
 <!---
